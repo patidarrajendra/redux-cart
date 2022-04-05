@@ -36,10 +36,24 @@
   height:70px;
 }
 .add-to-cart{
-  width: 2%;
   position: absolute;
   right: 1%;
   top: 1%;
+}
+.add-to-cart img{
+  width: 25px;
+  
+}
+.cart-count{
+  position: absolute;
+    /* top: -13px; */
+    left: 18px;
+    padding: 10p;
+    /* right: -1px; */
+    background-color: red;
+    padding: 7px;
+    color: #fff;
+    border-radius: 50%;
 }
 /**/
 
